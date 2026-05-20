@@ -243,8 +243,3 @@ footer {
     font-size: 40px;
   }
 
-  footer {
-    flex-direction: column;
-    gap: 20px;
-  }
-}
